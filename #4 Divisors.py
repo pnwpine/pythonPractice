@@ -12,7 +12,7 @@ def divisor (number):
 
 #Test Cases
 def main():
-    divisor(12)
+    divisor(5)
     divisor(123455)
     divisor(1000)
 
